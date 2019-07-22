@@ -14,5 +14,9 @@ int main(void)
         c.port=9999;
         ClientCreate(&c);
         ClientClose(&c);
+	
+
+
+
         return 0;
 }
